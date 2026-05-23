@@ -1,0 +1,6 @@
+{
+  "name": "Personal Portfolio Generator",
+  "description": "An AI-powered professional workspace that parses resume or LinkedIn profile text to instantly generate and customize elegant, single-page personal portfolios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

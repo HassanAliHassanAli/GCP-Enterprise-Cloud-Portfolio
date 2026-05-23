@@ -36,3 +36,14 @@ Strong emphasis is placed on SQL-driven data warehousing, automated deployments,
 * **Compute Engine:** Provisioned a scalable Compute Engine virtual machine (VM) and deployed a Linux-based Nginx web server environment to act as the application host.
 * **Managed Database (Cloud SQL):** Established a secure, fully managed relational database instance (PostgreSQL/MySQL) tailored for transactional ERP data storage, linking it securely to the application server.
 * **Automated Disaster Recovery:** Designed a robust data retention workflow by scripting automated database backups to be routed periodically into isolated Cloud Storage buckets.
+---
+
+## 🚀 Project 4: AI-Powered Personal Portfolio Generator (Full-Stack AI App)
+**Objective:** To architect and deploy a dynamic, Generative AI-driven web application that instantly parses unstructured professional data (like CVs or LinkedIn summaries) into a responsive, production-ready portfolio website.
+
+**Implementation Details:**
+* **AI Integration (Gemini API):** Utilized Google Gemini 3.5 Flash to intelligently extract, structure, and format career timelines and technical skills from raw text inputs.
+* **Frontend Development (React & TypeScript):** Engineered a sleek, interactive user interface utilizing React and TypeScript to provide real-time portfolio generation and aesthetic customization.
+* **Rapid Prototyping (Google AI Studio):** Leveraged Google AI Studio for prompt engineering, UI scaffolding, and seamless logic integration.
+* **Serverless Deployment (Cloud Run):** Hosted the full-stack application on Google Cloud Run, ensuring fast, reliable, and scalable global access without managing underlying infrastructure.
+* **Live Demo:** [Portfolio.AI Live App](https://personal-portfolio-generator-34827481300.europe-west3.run.app/) *(Click to view the deployed project)*
